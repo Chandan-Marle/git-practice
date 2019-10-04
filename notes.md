@@ -21,3 +21,16 @@ Three step commit process
     git add filename.rb
 * Comit the stage files 
     git commit -m "Descriptive commit message to self and others"
+
+Put into Github
+---------------
+    After you you commit, use git push
+
+When pulling a file from a new computer
+---------------------------------------
+    Do step 1
+    git clone
+
+When switching computers
+------------------------
+    git pull
