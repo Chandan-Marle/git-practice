@@ -28,8 +28,9 @@ Put into Github
 
 When pulling a file from a new computer
 ---------------------------------------
-    Do step 1
-    git clone
+    git config --global user.name "Chandan Marle"
+    git config --global user.email "chandanmarlex12@gmail"
+    git clone url
 
 When switching computers
 ------------------------
